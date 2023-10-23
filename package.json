@@ -1,0 +1,15 @@
+{
+  "name": "driverjs",
+  "version": "1.0.0",
+  "description": "implemeting driverjs A JavaScript library designed for creating interactive on-page tours and guides.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "driver.js": "^1.3.0"
+  }
+}

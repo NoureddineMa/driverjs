@@ -1,0 +1,41 @@
+.s1 {
+    background-color: red;
+    color: white;
+    padding: 1rem 4rem;
+    border: 0px;
+    border-radius: 3rem;
+}
+.s2 {
+    background-color: green;
+    color: white;
+    padding: 1rem 4rem;
+    border: 0px;
+    border-radius: 3rem;
+}
+.s3 {
+    background-color: violet;
+    color: black;
+    padding: 1rem 4rem;
+    border: 0px;
+    border-radius: 3rem;
+}
+.s4 {
+    background-color: orange;
+    color: black;
+    padding: 1rem 4rem;
+    border: 0px;
+    border-radius: 3rem;
+}
+.p1 {
+    display: flex;
+    justify-content: space-between;
+}
+.p2 {
+    display: flex;
+    justify-content: space-between;
+}
+.parent {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
